@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🔮 NexusMatch — Cognitive AI Dating Platform
+# 🔮 SoulHeartMindMatch— Cognitive AI Dating Platform
 
 <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
