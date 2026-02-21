@@ -47,7 +47,7 @@
 
 ## 🧠 About the Project
 
-NexusMatch is not a typical dating app.
+SoulHeartMindMatch is not a typical dating app.
 
 It is a **multi-dimensional human compatibility engine** built on cognitive systems theory, self-learning behavioral data pipelines, and ethically structured constraint-based monetization.
 
